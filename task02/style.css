@@ -1,0 +1,41 @@
+* {
+    font-size: 1.5rem;
+}
+
+table,
+div.input-container {
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+table,
+tr,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+input[type=text] {
+    width: 400px;
+}
+
+#button-wrap {
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.wide {
+    width: 150px;
+}
+
+/* 추가된 스타일 */
+.on {
+    color: green;
+}
+
+.off {
+    color: red;
+}
